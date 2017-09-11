@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="anim_translate_bottom_popup_window">
+    <item name="android:windowEnterAnimation">@anim/translate_in_bottom</item>
+    <item name="android:windowExitAnimation">@anim/translate_out_bottom</item>
+  </style>
+
+</resources>
